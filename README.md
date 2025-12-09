@@ -1,4 +1,4 @@
 # Krishna
 This is my first repo.
 <br>
-Author -  Krishna
+Author -  Krishna Rana
